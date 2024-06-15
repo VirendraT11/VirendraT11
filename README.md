@@ -1,10 +1,22 @@
 - 👋 Hi, I’m @VirendraT11
 - 👀 I’m interested in Full Stack Development and AI
-- 🌱 I’m currently learning JavaScript and Backend Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning  Backend Development
+
+
+👋 Hi, I'm **Virendra Tambavekar**, a third-year BTech Computer Engineering student with a passion for web development and full-stack projects. My journey in programming is fueled by a love for creating efficient, user-friendly applications.
+
+**🔧 Skills:**
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Currently learning advanced backend development
+- **Projects:** Developed a Portfolio Website, To-Do List App, and a Drag & Drop feature using HTML, CSS, and JS.
+
+**💼 Career Goals:**
+I aim to leverage my technical skills and collaborative spirit to contribute to innovative projects and grow as a full-stack developer.
+
+**🌐 Let's Connect:**
+- **LinkedIn:** [Virendra Tambavekar](https://www.linkedin.com/in/virendra-tambavekar-74a384257)
+
+I'm always eager to collaborate on exciting projects and explore new technologies. Let's build something amazing together!
 
 <!---
 VirendraT11/VirendraT11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
