@@ -8,7 +8,7 @@
 **🔧 Skills:**
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Currently learning advanced backend development
-- **Projects:** Developed a Portfolio Website, To-Do List App, and a Drag & Drop feature using HTML, CSS, and JS.
+- **Projects:** Developed a Pathfinding Algorithm Visualizer, Currency Coverter App, and a Recipe Finder Application using HTML, CSS, and JS.
 
 **💼 Career Goals:**
 I aim to leverage my technical skills and collaborative spirit to contribute to innovative projects and grow as a full-stack developer.
