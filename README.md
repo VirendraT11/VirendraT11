@@ -1,24 +1,41 @@
-- 👋 Hi, I’m @VirendraT11
-- 👀 I’m interested in Full Stack Development and AI
-- 🌱 I’m currently learning  Backend Development
+### Virendra Tambavekar | Full Stack Developer 💻 | MERN Stack 🌐 | AI Enthusiast 🤖
+
+**Hello, World! 👋**  
+Welcome to my GitHub profile! I'm Virendra, a passionate **Full Stack Developer** and an enthusiast in **Artificial Intelligence**. I'm currently a Computer Engineering student and always on the lookout for exciting projects and opportunities that allow me to contribute and grow.
+
+- 🔭 I’m currently working on **Audio Transciber App**.
+- 🌱 I’m exploring **Flask** and deepening my skills in **Generative AI**.
+- 👯 I’m open to collaborating on **Full Stack Projects** or anything related to **AI**.
+- 🏆 Achieved **50+ Days Badge** on LeetCode, placing in the top 6.9% globally.
+- 💬 Ask me about **React.js, Node.js, Python, Flask, SQLAlchemy, AI**.
+
+### 🚀 Projects
+Here are some cool projects I’ve been working on:
+1. [**YouTube Thumbnail Board**](https://github.com/VirendraT11/Youtube-Thumbnail-Board)  
+   A dynamic platform to fetch, save, and organize YouTube video thumbnails.  
+   Tech Stack: `Flask`, `SQLAlchemy`, `React.js`, `CSS`
+
+2. [**DALLE Clone**](https://github.com/VirendraT11/dalle_clone)  
+   Clone of OpenAI's DALL·E to generate images from text prompts.  
+   Tech Stack: `React.js`, `OpenAI API`, `CSS`, `Express.js`
+
+3. [**HealthShield - AI Risk Health Assessment Tool**](https://github.com/VirendraT11/HealthShield)  
+   AI-driven health assessment tool for early-stage breast cancer risk.  
+   Tech Stack: `IBM Watson`, `React.js`, `Node.js`
 
 
-👋 Hi, I'm **Virendra Tambavekar**, a third-year BTech Computer Engineering student with a passion for web development and full-stack projects. My journey in programming is fueled by a love for creating efficient, user-friendly applications.
+### 🛠 Tech Stack
+- Frontend: `React.js`, `HTML5`, `CSS3`, `JavaScript`
+- Backend: `Node.js`, `Express.js`, `Flask`, `SQLAlchemy`
+- Databases: `MongoDB`, `MySQL`
+- Version Control: `Git`, `GitHub`
+- DevOps & Deployment: `Render`, `Vercel`
 
-**🔧 Skills:**
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Currently learning advanced backend development
-- **Projects:** Developed a Pathfinding Algorithm Visualizer, Currency Coverter App, and a Recipe Finder Application using HTML, CSS, and JS.
+### 📈 Stats & Achievements
+- **LeetCode**: Consistent problem solver with a **50+ Days Badge**.  
+- **GitHub**: Over **100+ contributions** across various repositories.  
+- **Open Source**: Actively contributing to open-source projects and collaborating with developers globally.
 
-**💼 Career Goals:**
-I aim to leverage my technical skills and collaborative spirit to contribute to innovative projects and grow as a full-stack developer.
-
-**🌐 Let's Connect:**
-- **LinkedIn:** [Virendra Tambavekar](https://www.linkedin.com/in/virendra-tambavekar-74a384257)
-
-I'm always eager to collaborate on exciting projects and explore new technologies. Let's build something amazing together!
-
-<!---
-VirendraT11/VirendraT11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌟 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/virendra-tambavekar-74a384257/)
+- [Twitter](https://twitter.com/VirendraCodes)
