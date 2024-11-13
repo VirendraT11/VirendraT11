@@ -3,7 +3,6 @@
 **Hello, World! 👋**  
 Welcome to my GitHub profile! I'm Virendra, a passionate **Full Stack Developer** and an enthusiast in **Artificial Intelligence**. I'm currently a Computer Engineering student and always on the lookout for exciting projects and opportunities that allow me to contribute and grow.
 
-- 🔭 I’m currently working on **Audio Transciber App**.
 - 🌱 I’m exploring **Flask** and deepening my skills in **Generative AI**.
 - 👯 I’m open to collaborating on **Full Stack Projects** or anything related to **AI**.
 - 💬 Ask me about **React.js, Node.js, Python, Flask, SQLAlchemy, AI**.
