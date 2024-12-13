@@ -21,7 +21,7 @@ Here are some cool projects I’ve been working on:
    Tech Stack: `IBM Watson`, `React.js`, `Node.js`
    
 ### 📈 Stats & Achievements
-- **LeetCode**: Consistent problem solver with a **50+ Days Badge**.  
+- **LeetCode**: Consistent problem solver with a **100+ Days Badge**.  
 - **GitHub**: Over **100+ contributions** across various repositories.  
 - **Open Source**: Actively contributing to open-source projects and collaborating with developers globally.
 
